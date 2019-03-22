@@ -47,6 +47,38 @@
         </a>
       </div>
 
+<div class="alert alert-info" style="margin-top:40px; margin-left:70px; margin-right:70px">
+          <a href="http://ft.unsur.ac.id/info/informasi-lowongan-kerja.html"><i class="fa fa-info fa-fw"></i> INFORMASI LOWONGAN KERJA!! </a></div>
+
+
+        <!-- Three columns of text below the carousel -->
+        <center><div class="row" style="margin-top:60px">
+          <div class="col-sm-3 col-md-3">
+            <div class="page-header">
+                <a href="?page=berita"><img src="img/news.png"></a>
+                  
+            </div>
+            </div>
+            <div class="col-sm-3 col-md-3">
+            <div class="page-header">
+                <a href="http://ft.unsur.ac.id/berita.html"><img src="img/informasi.png"></a>
+                  
+            </div>
+          </div>
+          <div class="col-sm-3 col-md-3">
+            <div class="page-header">
+                <a href="http://ft.unsur.ac.id/berita.html"><img src="img/dokumen.png"></a>
+                  
+            </div>
+          </div>
+          <div class="col-sm-3 col-md-3">
+            <div class="page-header">
+                <a href="http://ft.unsur.ac.id/berita.html"><img src="img/prosedur.png"></a>
+                  
+            </div>
+          </div>
+          </div>
+          <hr>
  <!-- Marketing messaging and featurettes
       ================================================== -->
       <!-- Wrap the rest of the page in another container to center all the content. -->
@@ -56,66 +88,33 @@
 
 
         <!-- Three columns of text below the carousel -->
-        <div class="row">
-          <div class="col-sm-12 col-md-12">
-            <div class="page-header">
-              <h5>Berita Terbaru | 
-                <small>
-                  <a href="#">Lihat Semua</i></a>
-                </small>
-              </h5>
-            </div>
-          </div>
-          <div class="col-lg-3">
-            <img class="rounded" src="img/uts.jpg" alt="Generic placeholder image" width="100%" height="140">
-            <h5>Revisi 01 Jadwal Ujian Tengah Semester Ganjil 2018-2019</h5>
-            <p>Berikut Jadwal UTS untuk Semester Ganjil 2018-2019 download jadwal Catatan :  1. Tidak ada Ujian Susulan…</p>
-            <p><a class="btn btn-secondary" href="#" role="button">Selengkapnya &raquo;</a></p>
-          </div><!-- /.col-lg-4 -->
-          <div class="col-lg-3">
-            <img class="rounded" src="img/loker.jpg" alt="Generic placeholder image" width="100%" height="140">
-            <h5>LOWONGAN KERJA</h5>
-            <p>Untuk rekan-rekan Alumni Fakultas Teknik yang ingin bergabung di Perusahaan PT. Pratama Abadi Industri…</p>
-            <p><a class="btn btn-secondary" href="#" role="button">Selengkapnya &raquo;</a></p>
-          </div><!-- /.col-lg-4 -->
-          <div class="col-lg-3">
-            <img class="rounded" src="img/evdos.jpg" alt="Generic placeholder image" width="100%" height="140">
-            <h5>Evaluasi Dosen evdos.ft.unsur.ac.id</h5>
-            <p>Apakah EvDos Evaluasi Dosen Oleh Mahasiswa, merupakan instrumen untuk menilai kinerja dosen dalam…</p>
-            <p><a class="btn btn-secondary" href="#" role="button">Selengkapnya &raquo;</a></p>
-          </div><!-- /.col-lg-4 -->
-          <div class="col-lg-3">
-            <img class="rounded" src="img/revisi.jpg" alt="Generic placeholder image" width="100%" height="140">
-            <h5>Perubahan Jadwal Perkuliahan Revisi 02</h5>
-            <p>Berikut Kami sampaikan perubahan jadwal Revisi 02 TA. 2018-2019.</p>
-            <p><a class="btn btn-secondary" href="#" role="button">Selengkapnya &raquo;</a></p>
-          </div><!-- /.col-lg-4 -->
-        </div><!-- /.row -->
 
-              <div class="row">
-          <div class="col-sm-12 col-md-12">
-            <div class="page-header">
-              <h5>Galeri | 
-                <small>
-                  <a href="#">Lihat Semua</i></a>
-                </small>
-              </h5>
-            </div>
-          </div>
-          <div class="col-lg-3">
-            <img class="rounded" src="img/g1.jpg" alt="Generic placeholder image" width="100%" height="180">
-          </div><!-- /.col-lg-4 -->
-          <div class="col-lg-3">
-            <img class="rounded" src="img/g2.jpg" alt="Generic placeholder image" width="100%" height="180">
-          </div><!-- /.col-lg-4 -->
-          <div class="col-lg-3">
-            <img class="rounded" src="img/g3.jpg" alt="Generic placeholder image" width="100%" height="180">
-          </div><!-- /.col-lg-4 -->
-          <div class="col-lg-3">
-            <img class="rounded" src="img/g4.jpg" alt="Generic placeholder image" width="100%" height="180">
-          </div><!-- /.col-lg-4 -->
-        </div><!-- /.row -->
-        <hr class="featurette-divider">
+<div id="features">
+  <div class="container">
+    <div class="col-md-10 col-md-offset-1 section-title" style="margin-top:70px">
+      <center> <h1>Program Study</h1></center>
+    </div>
+    <br>  
+    <br>  
+    <div class="row">
+      <div class="col-xs-6 col-md-4"> <i class="#"></i>
+        <h3>Teknik Industri</h3>
+        <p><img src="img/industri.png"></p>
+      </div>
+      <div class="col-xs-6 col-md-4"> <i class="#"></i>
+        <h3>Teknik Informatika</h3>
+        <p><img src="img/if.jpg" style="width: 300px; height:180px;"></p>
+      </div>
+      <div class="col-xs-6 col-md-4"> <i class="#"></i>
+        <h3>Teknik Sipil</h3>
+        <p><img src="img/sipil.jpg" style="width: 300px; height:180px;"></p>
+      </div>
+    </div>
+  </div>
+  <br>  <br>  
+</div>
+
+        
 
         <!-- /END THE FEATURETTES -->
 
